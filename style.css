@@ -1,0 +1,33 @@
+html{
+    height: 100vh;
+}
+
+body{
+    background: url('./bg-3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 65%;
+}
+
+.fa-cloud-moon{
+    font-size: 50px;
+    color: rgb(255, 196, 0);
+}
+
+h2{
+    color: rgb(255, 196, 0);
+}
+
+.weather{
+    gap: 120px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
